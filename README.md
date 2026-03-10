@@ -1,4 +1,4 @@
-# AluraStore
+# Alura Telecom X
 ### Repositorio para el análisis de evasión de clientes de Telecom X
 
 ---
