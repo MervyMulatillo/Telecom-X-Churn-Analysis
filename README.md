@@ -58,12 +58,18 @@ Mapa de calor que muestra qué factores financieros y de servicio están más li
 <img width="341" height="299" alt="image" src="https://github.com/user-attachments/assets/8f4b7756-cf5a-43fc-95cc-15ed334bb90b" />
 
 
-### 💡 Conclusiones e Insights Clave
-Tras el análisis exhaustivo de los datos de Telecom X, se obtuvieron los siguientes hallazgos:
-* Contratos "Mes a Mes": Son el principal foco de evasión. Los clientes sin compromiso a largo plazo tienen una probabilidad de salida significativamente mayor.
-* Abandono Temprano: Existe una "zona roja" de cancelación en los primeros 6 meses de servicio. Superar el primer año de contrato es clave para la fidelidad.
-* Sensibilidad al Precio: Los clientes con cargos mensuales elevados presentan una mayor tendencia a la evasión, sugiriendo que la competencia podría estar ofreciendo mejores precios o el cliente no percibe el valor del costo.
-* Métrica Diaria: La creación de la columna Cuentas_Diarias permitió observar que el gasto diario prorrateado influye en la percepción de costo del cliente.
+---
+### 📋 Estructura del archivo Python: Evasión de Clientes (Churn) - Telecom X
+1. Extracción
+2. Transformación
+3. Carga y Análisis Exploratorio de Datos (EDA)
+4. Informe final
+
+---
+### 🎯 Conclusiones e Insights
+El "Mes a Mes" es el riesgo #1: La flexibilidad del contrato sin permanencia facilita que el cliente se retire ante cualquier insatisfacción o oferta de la competencia.
+Barrera del Primer Año: Los primeros meses son críticos. Si no se logra fidelizar al cliente en su primer semestre, es muy probable que se retire.
+Fuga de "Alto Valor": No solo se van muchos clientes, sino que se van aquellos que pagan facturas más altas, lo que impacta severamente el flujo de caja.
 
 ### 🚀 Cómo ejecutar este proyecto
 1.  **Clona este repositorio:**
